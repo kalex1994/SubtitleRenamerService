@@ -1,7 +1,7 @@
 SubtitleRenamerService
 ======================
 
-A simple Windows service that renames subtitle files, when they appear in a folder.
+A simple Windows service that automatically renames subtitle files to match the corresponding video file's name. The renaming happens when the subtitle file appears in the folder containing the corresponding video.
 
 Installation:
 
